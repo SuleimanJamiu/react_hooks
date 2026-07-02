@@ -7,9 +7,9 @@ function ProfileCard() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setProfile({
-        name: 'Ada Lovelace',
-        email: 'ada@example.com',
-        city: 'London',
+        name: 'Suleiman Jamiu',
+        email: 'suleiman_J@example.com',
+        city: 'Lagos',
       });
       setLoading(false);
     }, 2000);
